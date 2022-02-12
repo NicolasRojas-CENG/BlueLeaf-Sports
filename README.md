@@ -49,4 +49,4 @@ Steps took as a team were:
 
 ## Completed web application
 ***
-[Click here to view the final result of the web application.](https://kaitlynskinner.github.io/Project-1/)
+[Click here to view the final result of the web application.](https://nicolasrojas-ceng.github.io/BlueLeaf-Sports/)
