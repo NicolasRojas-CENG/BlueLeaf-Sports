@@ -1,4 +1,4 @@
-# Project-1
+# BlueLeaf Sports
 ```
 Group project 1. Due date: 13th of Febuary 2022.
 ```
